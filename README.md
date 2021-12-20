@@ -9,6 +9,8 @@ Esse projeto foi gerado com DJANGO.
 
 Sistema web para estudo da matéria Progamação para Internet 2, focando no aprofundamento dos conhecimetos de front-end e back-end.
 
+URL site: http://gabriellennon.pythonanywhere.com/
+
 <br />
 
 ## :wrench: Colocando o projeto para rodar
